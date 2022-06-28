@@ -5,20 +5,15 @@
 ### 3- Postgres https://www.postgresql.org/docs/
 ### 4- Heroku for deployment
 
-## Screenshots
 
-## Login and Home screen
 <p align="center"> 
 <br>
 </p>
 <br>
 
-## Output
 <p align="center"> 
 <br>
  </p>
-
-## Mobile-view
 <p align="center"> 
 <br>
 </p>
