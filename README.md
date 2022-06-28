@@ -10,20 +10,16 @@
 ## Login and Home screen
 <p align="center"> 
 <br>
-<img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/pc2.png">
 </p>
 <br>
 
 ## Output
 <p align="center"> 
-<img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/pc3.png">
 <br>
  </p>
 
 ## Mobile-view
 <p align="center"> 
-<img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/mobile1.jpeg">
 <br>
-<img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/mobile2.jpeg">
 </p>
 
