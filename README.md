@@ -9,7 +9,6 @@
 
 ## Login and Home screen
 <p align="center"> 
-<img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/pc1.png">
 <br>
 <img src="https://github.com/mrpandey1/face-detection-web.github.io/blob/master/screenshots/pc2.png">
 </p>
